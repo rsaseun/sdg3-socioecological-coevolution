@@ -1,0 +1,14 @@
+{
+  "title": "sdg3-socioecological-coevolution: code and data for 'Balanced development as a determinant of health' (v1.0.0)",
+  "upload_type": "software",
+  "description": "Python pipeline, data extract and outputs reproducing all results, figures and tables of the article on socioecological co-evolution, coupling coordination and the health dividend of balanced development in 48 Sub-Saharan African countries, 2000-2023.",
+  "creators": [
+    {"name": "Raji, Saheed A.", "orcid": "0000-0002-5890-5414", "affiliation": "Fire/EMS Department, Prince George's County, Maryland, United States"},
+    {"name": "Oladimeji, Abolade", "orcid": "0000-0003-2028-2191", "affiliation": "Samford University"},
+    {"name": "Demehin, Michael", "orcid": "0000-0002-2713-9219", "affiliation": "London School of Science and Technology"},
+    {"name": "Wunude, Emmanuel", "orcid": "0000-0002-2246-0414", "affiliation": "University of Lagos"}
+  ],
+  "license": "MIT",
+  "keywords": ["socioecological model", "coupling coordination", "network analysis", "SDG 3", "spatial Markov chain", "Sub-Saharan Africa"],
+  "version": "1.0.0"
+}

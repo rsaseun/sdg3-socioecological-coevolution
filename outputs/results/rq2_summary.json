@@ -1,0 +1,68 @@
+{
+ "n_obs": 288,
+ "n_countries": 48,
+ "n_nodes": 17,
+ "n_edges": 63,
+ "n_robust_edges": 9,
+ "n_cross_group_robust": 7,
+ "top_drivers": [
+  "Health spending per capita, PPP",
+  "Clean cooking fuel",
+  "Access to electricity",
+  "Political stability",
+  "Less undernourishment",
+  "GDP per capita, PPP"
+ ],
+ "contemporaneous_edges": 9,
+ "var_r2": {
+  "GDP": 0.28606643271633325,
+  "TFR": 0.5264660921008322,
+  "PoU": 0.1577951338914979,
+  "FLFP": 0.38517136104094873,
+  "GE": 0.12756409789920375,
+  "CC": 0.10261924307445813,
+  "PV": 0.03750672479162198,
+  "WAT": 0.9603074928559968,
+  "SAN": 0.9210543284461268,
+  "FUEL": 0.7558505457362326,
+  "ELEC": 0.2893557183419313,
+  "CHE": 0.09008803253216591,
+  "OOP": 0.05818863283460085,
+  "DTP3": 0.0,
+  "LE": 0.0,
+  "U5MR": 0.0,
+  "MMR": 0.09125097971233354
+ },
+ "dh_significant_K1": [
+  [
+   "driver->outcome",
+   "U_Social",
+   "LE",
+   6.3
+  ],
+  [
+   "driver->outcome",
+   "U_Social",
+   "MMR",
+   7.86
+  ],
+  [
+   "driver->outcome",
+   "U_Environmental",
+   "U5MR",
+   2.4
+  ],
+  [
+   "outcome->driver",
+   "U5MR",
+   "U_Environmental",
+   6.47
+  ],
+  [
+   "driver->outcome",
+   "D",
+   "U5MR",
+   2.0
+  ]
+ ]
+}

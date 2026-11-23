@@ -1,0 +1,21 @@
+Class t,Neighbourhood,Imbalanced,Near imbalance,Barely coordinated,Primary coordination,Intermediate or better
+Imbalanced,All countries (classical chain),0.846 (22),0.154 (4),0.0 (0),0.0 (0),0.0 (0)
+Near imbalance,All countries (classical chain),0.013 (2),0.892 (141),0.095 (15),0.0 (0),0.0 (0)
+Barely coordinated,All countries (classical chain),0.0 (0),0.006 (2),0.904 (300),0.09 (30),0.0 (0)
+Primary coordination,All countries (classical chain),0.0 (0),0.0 (0),0.03 (10),0.937 (311),0.033 (11)
+Intermediate or better,All countries (classical chain),0.0 (0),0.0 (0),0.0 (0),0.008 (2),0.992 (254)
+Imbalanced,Low-coordination neighbours,0.75,0.25,0.0,0.0,0.0
+Near imbalance,Low-coordination neighbours,0.009,0.909,0.082,0.0,0.0
+Barely coordinated,Low-coordination neighbours,0.0,0.01,0.922,0.068,0.0
+Primary coordination,Low-coordination neighbours,0.0,0.0,0.135,0.838,0.027
+Intermediate or better,Low-coordination neighbours,0.0,0.0,0.0,0.5,0.5
+Imbalanced,Middle,0.857,0.143,0.0,0.0,0.0
+Near imbalance,Middle,0.026,0.816,0.158,0.0,0.0
+Barely coordinated,Middle,0.0,0.005,0.886,0.109,0.0
+Primary coordination,Middle,0.0,0.0,0.028,0.934,0.039
+Intermediate or better,Middle,0.0,0.0,0.0,0.01,0.99
+Imbalanced,High-coordination neighbours,0.875,0.125,0.0,0.0,0.0
+Near imbalance,High-coordination neighbours,0.0,1.0,0.0,0.0,0.0
+Barely coordinated,High-coordination neighbours,0.0,0.0,0.964,0.036,0.0
+Primary coordination,High-coordination neighbours,0.0,0.0,0.0,0.974,0.026
+Intermediate or better,High-coordination neighbours,0.0,0.0,0.0,0.0,1.0

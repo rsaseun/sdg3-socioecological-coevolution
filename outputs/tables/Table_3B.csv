@@ -1,0 +1,16 @@
+Subsystem index,Outcome,Z̃ lag 1 (subsystem → outcome),Z̃ lag 2 (subsystem → outcome),Z̃ lag 1 (outcome → subsystem)
+Social,Life expectancy,6.30***,6.33***,0.60
+Social,Child survival,0.38,-0.50,1.38
+Social,Maternal survival,7.86***,7.10***,-0.19
+Institutional,Life expectancy,-0.97,-1.57,1.93
+Institutional,Child survival,1.51,-0.54,1.74
+Institutional,Maternal survival,-0.78,-1.05,-0.53
+Environmental,Life expectancy,1.82,6.10***,1.12
+Environmental,Child survival,2.40*,2.94**,6.47***
+Environmental,Maternal survival,-0.58,-0.63,0.43
+Health system,Life expectancy,0.29,1.46,0.12
+Health system,Child survival,0.92,0.64,-0.90
+Health system,Maternal survival,0.94,1.53,0.39
+Coordination D,Life expectancy,-0.51,0.26,0.56
+Coordination D,Child survival,2.00*,1.02,0.81
+Coordination D,Maternal survival,-0.78,0.66,0.08

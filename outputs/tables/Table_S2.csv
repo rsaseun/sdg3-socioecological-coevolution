@@ -1,0 +1,49 @@
+Country,Region,D 2000,D 2023,Class 2023,Lagging subsystem,Top three obstacles (2023),Dividend: life expectancy (years),Dividend: under-five mortality (%)
+South Sudan,East,0.45,0.43,Near imbalance,Environmental,Clean cooking fuel; Government health priority; Control of corruption,4.33,-21.6
+Central African Republic,Central,0.48,0.46,Near imbalance,Environmental,"Clean cooking fuel; GDP per capita, PPP; Control of corruption",1.75,-9.4
+"Congo, Dem. Rep.",Central,0.33,0.48,Near imbalance,Environmental,"Clean cooking fuel; Government health priority; GDP per capita, PPP",1.23,-6.7
+Somalia,East,0.29,0.48,Near imbalance,Institutional,"Clean cooking fuel; GDP per capita, PPP; Control of corruption",1.35,-7.3
+Chad,Central,0.43,0.52,Barely coordinated,Environmental,"Clean cooking fuel; GDP per capita, PPP; Government health priority",0.89,-4.9
+Sudan,East,0.51,0.56,Barely coordinated,Institutional,"Clean cooking fuel; GDP per capita, PPP; Government health priority",1.22,-6.6
+Niger,West,0.43,0.57,Barely coordinated,Environmental,"Clean cooking fuel; GDP per capita, PPP; Government health priority",1.13,-6.2
+Madagascar,East,0.53,0.58,Barely coordinated,Environmental,"Clean cooking fuel; GDP per capita, PPP; Government health priority",1.00,-5.4
+Eritrea,East,0.54,0.58,Barely coordinated,Institutional,Clean cooking fuel; Government health priority; Control of corruption,1.21,-6.6
+Burundi,Central,0.50,0.58,Barely coordinated,Environmental,"Clean cooking fuel; GDP per capita, PPP; Government health priority",1.12,-6.1
+Guinea-Bissau,West,0.45,0.59,Barely coordinated,Environmental,"Clean cooking fuel; Government health priority; GDP per capita, PPP",0.67,-3.7
+Guinea,West,0.45,0.59,Barely coordinated,Environmental,"Clean cooking fuel; Government health priority; GDP per capita, PPP",0.23,-1.3
+Mali,West,0.50,0.59,Barely coordinated,Environmental,"Clean cooking fuel; Government health priority; GDP per capita, PPP",0.00,0.0
+Liberia,West,0.44,0.60,Barely coordinated,Environmental,"Clean cooking fuel; Government health priority; GDP per capita, PPP",0.70,-3.9
+Ethiopia,East,0.41,0.60,Primary coordination,Environmental,"Clean cooking fuel; Government health priority; GDP per capita, PPP",0.67,-3.7
+Sierra Leone,West,0.40,0.61,Primary coordination,Environmental,"Clean cooking fuel; Government health priority; GDP per capita, PPP",0.88,-4.8
+Mozambique,Southern,0.48,0.62,Primary coordination,Environmental,"Clean cooking fuel; GDP per capita, PPP; Government health priority",0.42,-2.3
+Uganda,East,0.47,0.63,Primary coordination,Environmental,"Clean cooking fuel; Government health priority; GDP per capita, PPP",0.75,-4.1
+Togo,West,0.47,0.64,Primary coordination,Environmental,"Clean cooking fuel; Government health priority; GDP per capita, PPP",0.21,-1.2
+Malawi,Southern,0.54,0.64,Primary coordination,Environmental,"Clean cooking fuel; Government health priority; GDP per capita, PPP",0.75,-4.1
+Cameroon,Central,0.56,0.65,Primary coordination,Institutional,Clean cooking fuel; Government health priority; Control of corruption,0.06,-0.4
+Benin,West,0.57,0.65,Primary coordination,Environmental,"Clean cooking fuel; Government health priority; GDP per capita, PPP",0.77,-4.2
+Burkina Faso,West,0.51,0.65,Primary coordination,Environmental,"Clean cooking fuel; GDP per capita, PPP; Government health priority",0.70,-3.9
+Nigeria,West,0.50,0.65,Primary coordination,Health system,Clean cooking fuel; Government health priority; Out-of-pocket share,0.38,-2.1
+Comoros,East,0.57,0.65,Primary coordination,Institutional,"Clean cooking fuel; Government health priority; GDP per capita, PPP",0.00,-0.0
+"Congo, Rep.",Central,0.52,0.67,Primary coordination,Institutional,Clean cooking fuel; Government health priority; Control of corruption,0.11,-0.6
+Equatorial Guinea,Central,0.54,0.67,Primary coordination,Institutional,Clean cooking fuel; Government health priority; Control of corruption,0.37,-2.0
+Tanzania,East,0.48,0.67,Primary coordination,Environmental,"Clean cooking fuel; Government health priority; GDP per capita, PPP",0.40,-2.2
+Zimbabwe,Southern,0.66,0.68,Primary coordination,Institutional,Clean cooking fuel; Government health priority; Control of corruption,0.19,-1.1
+"Gambia, The",West,0.66,0.69,Primary coordination,Environmental,"Clean cooking fuel; Government health priority; GDP per capita, PPP",0.16,-0.9
+Zambia,Southern,0.58,0.69,Primary coordination,Environmental,"Clean cooking fuel; GDP per capita, PPP; Government health priority",0.46,-2.6
+Angola,Southern,0.53,0.71,Intermediate or better,Institutional,Government health priority; Clean cooking fuel; Control of corruption,0.00,0.0
+Mauritania,West,0.56,0.71,Intermediate or better,Institutional,Government health priority; Clean cooking fuel; Female labour-force participation,0.00,0.0
+São Tomé and Príncipe,Central,0.66,0.72,Intermediate or better,Environmental,Clean cooking fuel; Female labour-force participation; Government health priority,0.25,-1.4
+Côte d'Ivoire,West,0.58,0.74,Intermediate or better,Environmental,"Clean cooking fuel; Government health priority; GDP per capita, PPP",0.00,0.0
+Senegal,West,0.66,0.75,Intermediate or better,Health system,"Clean cooking fuel; Government health priority; GDP per capita, PPP",0.00,0.0
+Kenya,East,0.56,0.75,Intermediate or better,Environmental,"Clean cooking fuel; Government health priority; GDP per capita, PPP",0.01,-0.1
+Rwanda,East,0.52,0.77,Intermediate or better,Environmental,"Clean cooking fuel; GDP per capita, PPP; Government health priority",0.26,-1.5
+Lesotho,Southern,0.64,0.78,Intermediate or better,Social,"Clean cooking fuel; GDP per capita, PPP; Female labour-force participation",0.00,0.0
+Eswatini,Southern,0.71,0.79,Intermediate or better,Institutional,Clean cooking fuel; Control of corruption; Government health priority,0.09,-0.5
+Ghana,West,0.64,0.79,Intermediate or better,Environmental,Clean cooking fuel; Government health priority; Basic sanitation,0.00,0.0
+Gabon,Central,0.72,0.79,Intermediate or better,Institutional,Control of corruption; Government health priority; Female labour-force participation,0.19,-1.1
+Namibia,Southern,0.79,0.83,Intermediate or better,Environmental,Clean cooking fuel; Basic sanitation; Female labour-force participation,0.10,-0.6
+South Africa,Southern,0.85,0.89,Intermediate or better,Institutional,Female labour-force participation; Control of corruption; Political stability,0.00,0.0
+Botswana,Southern,0.82,0.91,Intermediate or better,Environmental,Clean cooking fuel; Female labour-force participation; Basic sanitation,0.00,0.0
+Cabo Verde,West,0.79,0.92,Intermediate or better,Social,"Female labour-force participation; GDP per capita, PPP; Government health priority",0.00,0.0
+Mauritius,East,0.87,0.92,Intermediate or better,Health system,Government health priority; Female labour-force participation; Out-of-pocket share,0.00,0.0
+Seychelles,East,0.90,0.93,Intermediate or better,Health system,Government health priority; Female labour-force participation; Out-of-pocket share,0.00,0.0

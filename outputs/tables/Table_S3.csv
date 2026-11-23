@@ -1,0 +1,57 @@
+check,outcome,coef_C,se_C,p_C,coef_T,n
+"Main (entropy weights, classical C, lag 1)",LE,0.996,0.283,<0.001,4.095,1104
+"Main (entropy weights, classical C, lag 1)",U5MR,-0.056,0.013,<0.001,-0.296,1104
+"Main (entropy weights, classical C, lag 1)",MMR,-0.059,0.022,0.009,-0.104,1104
+"Main (entropy weights, classical C, lag 1)",STUNT,-1.970,0.364,<0.001,-3.452,1104
+R1 equal weights,LE,0.947,0.261,<0.001,4.175,1104
+R1 equal weights,U5MR,-0.044,0.013,<0.001,-0.290,1104
+R1 equal weights,MMR,-0.049,0.025,0.046,-0.177,1104
+R1 equal weights,STUNT,-1.309,0.278,<0.001,-3.244,1104
+R1 critic weights,LE,1.065,0.263,<0.001,3.879,1104
+R1 critic weights,U5MR,-0.049,0.013,<0.001,-0.274,1104
+R1 critic weights,MMR,-0.064,0.024,0.009,-0.123,1104
+R1 critic weights,STUNT,-1.323,0.291,<0.001,-2.918,1104
+R1 pca weights,LE,0.905,0.249,<0.001,4.368,1104
+R1 pca weights,U5MR,-0.045,0.013,<0.001,-0.296,1104
+R1 pca weights,MMR,-0.047,0.024,0.054,-0.197,1104
+R1 pca weights,STUNT,-1.376,0.253,<0.001,-3.438,1104
+R2 modified coupling degree,LE,0.230,0.278,0.409,4.028,1104
+R2 modified coupling degree,U5MR,-0.021,0.011,0.051,-0.289,1104
+R2 modified coupling degree,MMR,-0.015,0.020,0.468,-0.100,1104
+R2 modified coupling degree,STUNT,-0.988,0.180,<0.001,-3.122,1104
+R3 balance = -SD of subsystem indices,LE,0.235,0.276,0.394,4.276,1104
+R3 balance = -SD of subsystem indices,U5MR,-0.024,0.008,0.004,-0.314,1104
+R3 balance = -SD of subsystem indices,MMR,-0.008,0.031,0.799,-0.110,1104
+R3 balance = -SD of subsystem indices,STUNT,-1.062,0.134,<0.001,-4.225,1104
+R4 excluding countries with imputed series,LE,0.883,0.256,<0.001,3.430,966
+R4 excluding countries with imputed series,U5MR,-0.049,0.008,<0.001,-0.269,966
+R4 excluding countries with imputed series,MMR,-0.055,0.023,0.018,-0.100,966
+R4 excluding countries with imputed series,STUNT,-1.855,0.338,<0.001,-2.662,966
+R5 lag 0,LE,1.144,0.277,<0.001,3.956,1152
+R5 lag 0,U5MR,-0.063,0.011,<0.001,-0.295,1152
+R5 lag 0,MMR,-0.063,0.020,0.002,-0.095,1152
+R5 lag 0,STUNT,-2.010,0.364,<0.001,-3.470,1152
+R5 lag 2,LE,0.697,0.210,<0.001,3.812,1056
+R5 lag 2,U5MR,-0.038,0.013,0.003,-0.283,1056
+R5 lag 2,MMR,-0.054,0.025,0.033,-0.115,1056
+R5 lag 2,STUNT,-1.890,0.364,<0.001,-3.412,1056
+R5 lag 3,LE,0.552,0.195,0.005,3.772,1008
+R5 lag 3,U5MR,-0.028,0.013,0.033,-0.268,1008
+R5 lag 3,MMR,-0.054,0.030,0.071,-0.142,1008
+R5 lag 3,STUNT,-1.791,0.376,<0.001,-3.365,1008
+R6 without Central Africa,LE,1.079,0.377,0.004,3.485,897
+R6 without Central Africa,U5MR,-0.071,0.018,<0.001,-0.272,897
+R6 without Central Africa,MMR,-0.062,0.022,0.004,-0.123,897
+R6 without Central Africa,STUNT,-2.559,0.302,<0.001,-3.501,897
+R6 without East Africa,LE,0.194,0.292,0.506,2.441,805
+R6 without East Africa,U5MR,0.000,0.007,0.981,-0.188,805
+R6 without East Africa,MMR,-0.022,0.014,0.123,0.008,805
+R6 without East Africa,STUNT,-0.814,0.419,0.053,-2.071,805
+R6 without Southern Africa,LE,1.392,0.307,<0.001,4.162,874
+R6 without Southern Africa,U5MR,-0.067,0.016,<0.001,-0.263,874
+R6 without Southern Africa,MMR,-0.073,0.035,0.034,-0.118,874
+R6 without Southern Africa,STUNT,-1.904,0.307,<0.001,-3.636,874
+R6 without West Africa,LE,1.127,0.328,<0.001,6.332,736
+R6 without West Africa,U5MR,-0.076,0.016,<0.001,-0.472,736
+R6 without West Africa,MMR,-0.067,0.030,0.024,-0.188,736
+R6 without West Africa,STUNT,-2.371,0.397,<0.001,-4.493,736

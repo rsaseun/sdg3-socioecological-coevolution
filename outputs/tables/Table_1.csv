@@ -1,0 +1,26 @@
+Subsystem,Indicator,WDI/WGI code,Direction,Entropy weight,Observed cells (%)
+Social,"GDP per capita, PPP (log)",NY.GDP.PCAP.PP.KD,+,0.318,95.8
+Social,Total fertility rate,SP.DYN.TFRT.IN,−,0.204,100.0
+Social,Adolescent birth rate,SP.ADO.TFRT,−,0.193,100.0
+Social,Prevalence of undernourishment,SN.ITK.DEFC.ZS,−,0.071,85.0
+Social,Female labour-force participation,SL.TLF.CACT.FE.ZS,+,0.214,97.8
+Institutional,Government effectiveness,GOV_WGI_GE.EST,+,0.165,94.9
+Institutional,Control of corruption,GOV_WGI_CC.EST,+,0.236,95.1
+Institutional,Rule of law,GOV_WGI_RL.EST,+,0.124,95.0
+Institutional,Regulatory quality,GOV_WGI_RQ.EST,+,0.152,95.0
+Institutional,Voice and accountability,GOV_WGI_VA.EST,+,0.155,95.0
+Institutional,Political stability,GOV_WGI_PV.EST,+,0.168,95.0
+Environmental,Basic drinking water,SH.H2O.BASW.ZS,+,0.093,97.7
+Environmental,Basic sanitation,SH.STA.BASS.ZS,+,0.203,97.7
+Environmental,Clean cooking fuel,EG.CFT.ACCS.ZS,+,0.518,100.0
+Environmental,Access to electricity,EG.ELC.ACCS.ZS,+,0.185,98.6
+Health system,"Health spending per capita, PPP (log)",SH.XPD.CHEX.PP.CD,+,0.190,96.5
+Health system,Government health priority,SH.XPD.GHED.GE.ZS,+,0.334,96.5
+Health system,Out-of-pocket share,SH.XPD.OOPC.CH.ZS,−,0.216,96.5
+Health system,DTP3 immunisation,SH.IMM.IDPT,+,0.133,99.0
+Health system,Measles immunisation,SH.IMM.MEAS,+,0.127,99.0
+Outcome,Life expectancy at birth (years),SP.DYN.LE00.IN,,–,100.0
+Outcome,Under-five mortality (log),SH.DYN.MORT,,–,100.0
+Outcome,Maternal mortality ratio (log),SH.STA.MMRT,,–,100.0
+Outcome,Neonatal mortality (log),SH.DYN.NMRT,,–,100.0
+Outcome,Child stunting (%),SH.STA.STNT.ME.ZS,,–,100.0

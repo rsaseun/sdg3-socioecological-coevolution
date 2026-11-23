@@ -1,0 +1,46 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the article and this repository."
+title: "sdg3-socioecological-coevolution: code and data for 'Balanced development as a determinant of health'"
+version: 1.0.0
+date-released: 2026-11-20
+license: MIT
+repository-code: "https://github.com/<account>/sdg3-socioecological-coevolution"
+authors:
+  - family-names: Raji
+    given-names: Saheed A.
+    orcid: "https://orcid.org/0000-0002-5890-5414"
+    affiliation: "Fire/EMS Department, Prince George's County, Largo, Maryland, United States"
+  - family-names: Oladimeji
+    given-names: Abolade
+    orcid: "https://orcid.org/0000-0003-2028-2191"
+    affiliation: "Department of Geography and Sociology, Samford University, Birmingham, Alabama, United States"
+  - family-names: Demehin
+    given-names: Michael
+    orcid: "https://orcid.org/0000-0002-2713-9219"
+    affiliation: "Department of Health and Social Science, London School of Science and Technology, Birmingham, United Kingdom"
+  - family-names: Wunude
+    given-names: Emmanuel
+    orcid: "https://orcid.org/0000-0002-2246-0414"
+    affiliation: "Department of Geography, University of Lagos, Lagos, Nigeria"
+keywords:
+  - socioecological model
+  - coupling coordination
+  - network analysis
+  - Sustainable Development Goal 3
+  - spatial Markov chain
+  - Sub-Saharan Africa
+preferred-citation:
+  type: article
+  title: "Balanced development as a determinant of health: socioecological co-evolution, coordination dynamics and the well-being dividend in Sub-Saharan Africa, 2000-2023"
+  authors:
+    - family-names: Raji
+      given-names: Saheed A.
+    - family-names: Oladimeji
+      given-names: Abolade
+    - family-names: Demehin
+      given-names: Michael
+    - family-names: Wunude
+      given-names: Emmanuel
+  journal: "SSHO Health & Well-being"
+  status: submitted
+  year: 2026

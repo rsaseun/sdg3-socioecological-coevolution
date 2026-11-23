@@ -1,0 +1,283 @@
+{
+ "sd": {
+  "T": 0.16209801809120622,
+  "C": 0.07417467083050529,
+  "D": 0.13126355771707124
+ },
+ "mean": {
+  "T": 0.44011568257435707,
+  "C": 0.9140457384627234,
+  "D": 0.6263557770747048
+ },
+ "M1_D": {
+  "LE": {
+   "coef": 4.2575,
+   "se": 0.4225,
+   "p": 0.0
+  },
+  "U5MR": {
+   "coef": -0.2834,
+   "se": 0.0234,
+   "p": 0.0
+  },
+  "MMR": {
+   "coef": -0.1561,
+   "se": 0.0329,
+   "p": 0.0
+  },
+  "STUNT": {
+   "coef": -4.6335,
+   "se": 0.2279,
+   "p": 0.0
+  }
+ },
+ "M2_T": {
+  "LE": {
+   "coef": 4.0951,
+   "se": 0.5419,
+   "p": 0.0
+  },
+  "U5MR": {
+   "coef": -0.2962,
+   "se": 0.0229,
+   "p": 0.0
+  },
+  "MMR": {
+   "coef": -0.1039,
+   "se": 0.0316,
+   "p": 0.001
+  },
+  "STUNT": {
+   "coef": -3.4519,
+   "se": 0.2599,
+   "p": 0.0
+  }
+ },
+ "M2_C": {
+  "LE": {
+   "coef": 0.9956,
+   "se": 0.2831,
+   "p": 0.0005
+  },
+  "U5MR": {
+   "coef": -0.056,
+   "se": 0.013,
+   "p": 0.0
+  },
+  "MMR": {
+   "coef": -0.0586,
+   "se": 0.0223,
+   "p": 0.0087
+  },
+  "STUNT": {
+   "coef": -1.9699,
+   "se": 0.3643,
+   "p": 0.0
+  }
+ },
+ "M3_TC": {
+  "LE": {
+   "coef": -0.3839,
+   "se": 0.2962,
+   "p": 0.1953
+  },
+  "U5MR": {
+   "coef": -0.024,
+   "se": 0.0205,
+   "p": 0.2422
+  },
+  "MMR": {
+   "coef": 0.0534,
+   "se": 0.0223,
+   "p": 0.017
+  },
+  "STUNT": {
+   "coef": -1.3736,
+   "se": 0.114,
+   "p": 0.0
+  }
+ },
+ "mundlak": [
+  {
+   "outcome": "LE",
+   "term": "Tz_l1_dev",
+   "coef": 4.0951,
+   "se": 1.3178,
+   "p": 0.0019
+  },
+  {
+   "outcome": "LE",
+   "term": "Cz_l1_dev",
+   "coef": 0.9956,
+   "se": 0.453,
+   "p": 0.0282
+  },
+  {
+   "outcome": "LE",
+   "term": "Tz_l1_mean",
+   "coef": 3.4178,
+   "se": 0.9915,
+   "p": 0.0006
+  },
+  {
+   "outcome": "LE",
+   "term": "Cz_l1_mean",
+   "coef": 0.1271,
+   "se": 0.7226,
+   "p": 0.8604
+  },
+  {
+   "outcome": "U5MR",
+   "term": "Tz_l1_dev",
+   "coef": -0.2962,
+   "se": 0.0707,
+   "p": 0.0
+  },
+  {
+   "outcome": "U5MR",
+   "term": "Cz_l1_dev",
+   "coef": -0.056,
+   "se": 0.0289,
+   "p": 0.0532
+  },
+  {
+   "outcome": "U5MR",
+   "term": "Tz_l1_mean",
+   "coef": -0.4314,
+   "se": 0.0734,
+   "p": 0.0
+  },
+  {
+   "outcome": "U5MR",
+   "term": "Cz_l1_mean",
+   "coef": -0.026,
+   "se": 0.0454,
+   "p": 0.5674
+  },
+  {
+   "outcome": "MMR",
+   "term": "Tz_l1_dev",
+   "coef": -0.1039,
+   "se": 0.0944,
+   "p": 0.2709
+  },
+  {
+   "outcome": "MMR",
+   "term": "Cz_l1_dev",
+   "coef": -0.0586,
+   "se": 0.0486,
+   "p": 0.2276
+  },
+  {
+   "outcome": "MMR",
+   "term": "Tz_l1_mean",
+   "coef": -0.5914,
+   "se": 0.0839,
+   "p": 0.0
+  },
+  {
+   "outcome": "MMR",
+   "term": "Cz_l1_mean",
+   "coef": -0.0153,
+   "se": 0.0669,
+   "p": 0.8193
+  },
+  {
+   "outcome": "STUNT",
+   "term": "Tz_l1_dev",
+   "coef": -3.4519,
+   "se": 1.2497,
+   "p": 0.0058
+  },
+  {
+   "outcome": "STUNT",
+   "term": "Cz_l1_dev",
+   "coef": -1.9699,
+   "se": 0.6691,
+   "p": 0.0033
+  },
+  {
+   "outcome": "STUNT",
+   "term": "Tz_l1_mean",
+   "coef": -4.8384,
+   "se": 1.4408,
+   "p": 0.0008
+  },
+  {
+   "outcome": "STUNT",
+   "term": "Cz_l1_mean",
+   "coef": -3.417,
+   "se": 1.8735,
+   "p": 0.0684
+  }
+ ],
+ "C_q75_2023": 0.9851509889901626,
+ "countries_below_q75": 36,
+ "dividend_LE_mean": 0.5212865589654784,
+ "dividend_LE_max": 4.330209723025505,
+ "dividend_LE_popw": 0.5596808485842821,
+ "dividend_U5MR_pct_mean": -2.8116688915660695,
+ "dividend_MMR_pct_mean": -2.939434403083691,
+ "top_dividend": [
+  [
+   "South Sudan",
+   4.33,
+   -21.61
+  ],
+  [
+   "Central African Republic",
+   1.75,
+   -9.38
+  ],
+  [
+   "Somalia",
+   1.35,
+   -7.33
+  ],
+  [
+   "Congo, Dem. Rep.",
+   1.23,
+   -6.67
+  ],
+  [
+   "Sudan",
+   1.22,
+   -6.61
+  ],
+  [
+   "Eritrea",
+   1.21,
+   -6.57
+  ],
+  [
+   "Niger",
+   1.13,
+   -6.16
+  ],
+  [
+   "Burundi",
+   1.12,
+   -6.08
+  ]
+ ],
+ "obstacle_mean_share": {
+  "Social": 0.2255,
+  "Institutional": 0.2562,
+  "Environmental": 0.286,
+  "Health system": 0.2322
+ },
+ "dominant_obstacle_counts": {
+  "Environmental": 29,
+  "Institutional": 13,
+  "Health system": 4,
+  "Social": 2
+ },
+ "top_obstacle_indicators": {
+  "Clean cooking fuel": 0.1733,
+  "Government health priority": 0.1131,
+  "GDP per capita, PPP (log)": 0.0848,
+  "Control of corruption": 0.0677,
+  "Female labour-force participation": 0.0582,
+  "Basic sanitation": 0.0578
+ }
+}

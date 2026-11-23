@@ -1,0 +1,76 @@
+source,target,source_label,target_label,source_group,target_group,beta,ci_lo,ci_hi,inclusion,autoregressive
+WAT,WAT,Basic drinking water,Basic drinking water,Environmental,Environmental,0.977511033263275,0.9358235021569012,1.010323124479743,1.0,True
+SAN,SAN,Basic sanitation,Basic sanitation,Environmental,Environmental,0.9378050022462139,0.8847522877692361,0.967629023580395,1.0,True
+FUEL,FUEL,Clean cooking fuel,Clean cooking fuel,Environmental,Environmental,0.8341977875064819,0.7740890848330384,0.877677004981019,1.0,True
+TFR,TFR,Fertility decline,Fertility decline,Social,Social,0.608999603916081,0.5045112367125867,0.6711046859797306,1.0,True
+FLFP,FLFP,Female labour-force participation,Female labour-force participation,Social,Social,0.6040377686729401,0.47541936120628914,0.6892761330115049,1.0,True
+ELEC,ELEC,Access to electricity,Access to electricity,Environmental,Environmental,0.41658201005805806,0.2953734924857635,0.4871476918264262,1.0,True
+GDP,GDP,"GDP per capita, PPP","GDP per capita, PPP",Social,Social,0.31283839125937374,0.17300721768790442,0.4138229095175302,1.0,True
+PoU,PoU,Less undernourishment,Less undernourishment,Social,Social,0.30490695789613537,0.11169371206748506,0.4536995693732689,1.0,True
+CC,CC,Control of corruption,Control of corruption,Institutional,Institutional,0.21943077443184283,0.056319626305660946,0.31069985073843615,0.996,True
+CHE,CHE,"Health spending per capita, PPP","Health spending per capita, PPP",Health system,Health system,0.181149654511608,0.02805047650021581,0.32113495526241337,0.992,True
+MMR,MMR,Maternal survival,Maternal survival,Outcome,Outcome,0.1585406150330344,0.0071305291727660255,0.28935012172194235,0.978,True
+FUEL,GDP,Clean cooking fuel,"GDP per capita, PPP",Environmental,Social,-0.12768795738515187,-0.25609451518685045,0.0,0.928,False
+CHE,GE,"Health spending per capita, PPP",Government effectiveness,Health system,Institutional,0.11889137619586798,0.028528007319460102,0.2044301272868387,0.99,False
+PV,GE,Political stability,Government effectiveness,Institutional,Institutional,0.11814395556348105,0.0,0.22029499955927148,0.972,False
+CHE,GDP,"Health spending per capita, PPP","GDP per capita, PPP",Health system,Social,0.11770134966701826,0.03243553345672699,0.19784922129818822,0.998,False
+ELEC,GDP,Access to electricity,"GDP per capita, PPP",Environmental,Social,0.08497481108034317,0.0,0.16056191737554393,0.942,False
+PoU,ELEC,Less undernourishment,Access to electricity,Social,Environmental,-0.08314210284672806,-0.19901405568012254,-0.0,0.892,False
+LE,PV,Life expectancy,Political stability,Outcome,Institutional,0.07715816498151618,0.0,0.1620963246481781,0.878,False
+PV,OOP,Political stability,Lower out-of-pocket share,Institutional,Health system,0.07559939902190832,0.0,0.2026565338746549,0.864,False
+GE,OOP,Government effectiveness,Lower out-of-pocket share,Institutional,Health system,0.07432306433873638,0.0,0.23195139143496346,0.832,False
+WAT,ELEC,Basic drinking water,Access to electricity,Environmental,Environmental,0.07201864313608691,0.0,0.1800894815877452,0.89,False
+WAT,TFR,Basic drinking water,Fertility decline,Environmental,Social,0.06638982436523862,0.0,0.172356749799361,0.88,False
+PoU,TFR,Less undernourishment,Fertility decline,Social,Social,0.06468092021494071,0.0,0.14188924081558035,0.966,False
+SAN,ELEC,Basic sanitation,Access to electricity,Environmental,Environmental,0.06366373002775925,0.0,0.20400046712931824,0.82,False
+FUEL,TFR,Clean cooking fuel,Fertility decline,Environmental,Social,-0.06285365683233121,-0.1333780895963496,-0.0040324742898325905,0.984,False
+ELEC,TFR,Access to electricity,Fertility decline,Environmental,Social,-0.06278670917119064,-0.1341813928379314,-0.0,0.958,False
+U5MR,OOP,Child survival,Lower out-of-pocket share,Outcome,Health system,0.061659620442550966,0.0,0.1473867600280876,0.644,False
+CHE,PV,"Health spending per capita, PPP",Political stability,Health system,Institutional,0.057368652177640866,0.0,0.15612204130978347,0.864,False
+DTP3,TFR,DTP3 immunisation,Fertility decline,Health system,Social,0.05188627830901436,0.0,0.13819501537105924,0.854,False
+ELEC,MMR,Access to electricity,Maternal survival,Environmental,Outcome,0.05095084045785834,0.0,0.1437683714688251,0.838,False
+CHE,CC,"Health spending per capita, PPP",Control of corruption,Health system,Institutional,0.0509207922639876,0.0,0.13385095876019418,0.818,False
+U5MR,TFR,Child survival,Fertility decline,Outcome,Social,0.04860058178329687,0.0,0.1467976641851435,0.654,False
+GDP,MMR,"GDP per capita, PPP",Maternal survival,Social,Outcome,0.047937713557615814,0.0,0.11844218499887306,0.892,False
+DTP3,MMR,DTP3 immunisation,Maternal survival,Health system,Outcome,0.0468026573038394,0.0,0.12210524477423679,0.876,False
+FLFP,GE,Female labour-force participation,Government effectiveness,Social,Institutional,0.04639321303189878,0.0,0.11698840990025211,0.852,False
+U5MR,GE,Child survival,Government effectiveness,Outcome,Institutional,0.0447430643614491,0.0,0.10636400039629167,0.832,False
+CC,GE,Control of corruption,Government effectiveness,Institutional,Institutional,0.043553256259101954,0.0,0.15978121579235366,0.688,False
+SAN,CC,Basic sanitation,Control of corruption,Environmental,Institutional,0.0415147455166594,0.0,0.13606939812590074,0.79,False
+TFR,ELEC,Fertility decline,Access to electricity,Social,Environmental,0.041442003855129715,0.0,0.16044608307778585,0.772,False
+FUEL,CC,Clean cooking fuel,Control of corruption,Environmental,Institutional,-0.040833900225627856,-0.12560448302052662,-0.0,0.844,False
+GDP,WAT,"GDP per capita, PPP",Basic drinking water,Social,Environmental,0.04029805715682876,0.010548987942497989,0.06429087781867784,0.996,False
+DTP3,OOP,DTP3 immunisation,Lower out-of-pocket share,Health system,Health system,0.03946436924488811,0.0,0.16354076731647296,0.708,False
+GDP,TFR,"GDP per capita, PPP",Fertility decline,Social,Social,0.039123346527028,-0.017185092671656202,0.12656074542243012,0.78,False
+LE,PoU,Life expectancy,Less undernourishment,Outcome,Social,0.0391132465566374,0.0,0.1714923164912956,0.656,False
+PoU,FLFP,Less undernourishment,Female labour-force participation,Social,Social,-0.037408346424205735,-0.13042922231741141,-0.0,0.742,False
+TFR,OOP,Fertility decline,Lower out-of-pocket share,Social,Health system,-0.03612505992129981,-0.13292052202176108,-0.0,0.704,False
+OOP,GE,Lower out-of-pocket share,Government effectiveness,Health system,Institutional,0.03507690470358058,0.0,0.10813125942935255,0.778,False
+TFR,MMR,Fertility decline,Maternal survival,Social,Outcome,0.03506620238852435,0.0,0.12346806865580241,0.664,False
+CC,TFR,Control of corruption,Fertility decline,Institutional,Social,0.03505696026691157,-0.03276294940987577,0.13645869646060518,0.78,False
+CC,FUEL,Control of corruption,Clean cooking fuel,Institutional,Environmental,0.03298345333186883,0.0,0.10272880978518274,0.776,False
+FLFP,TFR,Female labour-force participation,Fertility decline,Social,Social,-0.03145958133903307,-0.10652755475402848,0.0,0.848,False
+FLFP,PV,Female labour-force participation,Political stability,Social,Institutional,0.030957158373764358,0.0,0.11752947841097162,0.664,False
+CHE,ELEC,"Health spending per capita, PPP",Access to electricity,Health system,Environmental,-0.02927172901884183,-0.13442164545129276,-0.0,0.63,False
+PoU,GE,Less undernourishment,Government effectiveness,Social,Institutional,0.02908674801353537,0.0,0.11055907955772344,0.766,False
+SAN,TFR,Basic sanitation,Fertility decline,Environmental,Social,0.02859769483298411,0.0,0.1125232661473064,0.73,False
+WAT,MMR,Basic drinking water,Maternal survival,Environmental,Outcome,0.024700126453069,0.0,0.10973228172076856,0.616,False
+DTP3,ELEC,DTP3 immunisation,Access to electricity,Health system,Environmental,-0.024125165761503503,-0.1519849955616585,0.0,0.574,False
+FLFP,MMR,Female labour-force participation,Maternal survival,Social,Outcome,-0.023530967791667672,-0.09880949562691485,0.0,0.67,False
+PoU,MMR,Less undernourishment,Maternal survival,Social,Outcome,0.01914463041078556,0.0,0.11107565224998442,0.572,False
+LE,GDP,Life expectancy,"GDP per capita, PPP",Outcome,Social,0.018823645477883594,0.0,0.22505963500889556,0.51,False
+PV,CC,Political stability,Control of corruption,Institutional,Institutional,0.018607585383042094,0.0,0.1283531784246893,0.652,False
+CHE,FUEL,"Health spending per capita, PPP",Clean cooking fuel,Health system,Environmental,0.01718930005230061,0.0,0.11412328201402502,0.67,False
+OOP,TFR,Lower out-of-pocket share,Fertility decline,Health system,Social,-0.0157183861533149,-0.08926406813848019,0.022532516873860913,0.726,False
+CC,CHE,Control of corruption,"Health spending per capita, PPP",Institutional,Health system,0.01450457199908261,0.0,0.12730608464338816,0.564,False
+CC,GDP,Control of corruption,"GDP per capita, PPP",Institutional,Social,0.013590802091398447,0.0,0.10346592375827188,0.544,False
+GE,TFR,Government effectiveness,Fertility decline,Institutional,Social,0.011070778277928543,-0.06001860169393622,0.1311459348093014,0.708,False
+GE,MMR,Government effectiveness,Maternal survival,Institutional,Outcome,0.009738916747662111,-0.03269064664846152,0.15273556361671276,0.562,False
+GE,GE,Government effectiveness,Government effectiveness,Institutional,Institutional,0.008738712935572705,-0.024832198433543912,0.12334498134380603,0.508,True
+MMR,FUEL,Maternal survival,Clean cooking fuel,Outcome,Environmental,-0.00824391984018804,-0.06514157703918601,-0.0,0.604,False
+CHE,TFR,"Health spending per capita, PPP",Fertility decline,Health system,Social,0.006742751761521695,-0.030787915991448346,0.10190334331942001,0.674,False
+ELEC,WAT,Access to electricity,Basic drinking water,Environmental,Environmental,0.00612413074477904,0.0,0.028549477496367038,0.64,False
+TFR,CC,Fertility decline,Control of corruption,Social,Institutional,-0.0027936935607848113,-0.1639198301829752,0.09612452625317892,0.692,False
+LE,TFR,Life expectancy,Fertility decline,Outcome,Social,0.0008117662056615343,0.0,0.10362796753120268,0.516,False
+GE,ELEC,Government effectiveness,Access to electricity,Institutional,Environmental,-0.00037750471763962066,-0.09574055069252349,0.0,0.454,False
+MMR,GDP,Maternal survival,"GDP per capita, PPP",Outcome,Social,-9.217256467705397e-05,-0.10749619605849946,-0.0,0.556,False

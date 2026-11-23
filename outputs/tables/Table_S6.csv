@@ -1,0 +1,9 @@
+var,level_mean_adf,level_share_reject,diff_mean_adf,diff_share_reject
+U_Social,-0.885,0.062,-2.7,0.396
+U_Institutional,-1.743,0.062,-3.217,0.625
+U_Environmental,0.671,0.042,-3.202,0.604
+U_Health system,-1.639,0.125,-3.791,0.812
+D,-1.579,0.104,-3.458,0.729
+LE,-1.233,0.104,-3.355,0.583
+U5MR,-2.1,0.312,-2.223,0.292
+MMR,-0.546,0.042,-2.81,0.417

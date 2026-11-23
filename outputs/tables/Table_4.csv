@@ -1,0 +1,7 @@
+Series,CV 2000,CV 2023,Absolute β (SE),R²,Speed (%/year),Half-life (years)
+Coordination D,0.24,0.18,-0.0150 (0.0021)***,0.45,1.84,38
+Social,0.30,0.23,-0.0156 (0.0020)***,0.52,1.94,36
+Institutional,0.48,0.44,-0.0183 (0.0044)***,0.34,2.38,29
+Environmental,1.01,0.62,-0.0170 (0.0025)***,0.50,2.16,32
+Health system,0.48,0.31,-0.0258 (0.0026)***,0.65,3.92,18
+"Coordination D, conditional (two-way FE, 3-year periods)",,,-0.275 (0.059)***,,10.7,6.5

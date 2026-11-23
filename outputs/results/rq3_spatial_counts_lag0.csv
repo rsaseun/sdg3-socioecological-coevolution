@@ -1,0 +1,6 @@
+,Imbalanced,Near imbalance,Barely coordinated,Primary coordination,Intermediate or better
+Imbalanced,3,1,0,0,0
+Near imbalance,1,100,9,0,0
+Barely coordinated,0,1,95,7,0
+Primary coordination,0,0,5,31,1
+Intermediate or better,0,0,0,1,1

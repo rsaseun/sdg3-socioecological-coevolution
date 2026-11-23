@@ -1,0 +1,10 @@
+Leading change (t−1),Following change (t),Estimate,95% interval,Inclusion
+Clean cooking fuel [Environmental],"GDP per capita, PPP [Social]",-0.128,-0.256 to 0.000,0.93
+"Health spending per capita, PPP [Health system]",Government effectiveness [Institutional],0.119,0.029 to 0.204,0.99
+Political stability [Institutional],Government effectiveness [Institutional],0.118,0.000 to 0.220,0.97
+"Health spending per capita, PPP [Health system]","GDP per capita, PPP [Social]",0.118,0.032 to 0.198,1.00
+Access to electricity [Environmental],"GDP per capita, PPP [Social]",0.085,0.000 to 0.161,0.94
+Less undernourishment [Social],Fertility decline [Social],0.065,0.000 to 0.142,0.97
+Clean cooking fuel [Environmental],Fertility decline [Social],-0.063,-0.133 to -0.004,0.98
+Access to electricity [Environmental],Fertility decline [Social],-0.063,-0.134 to -0.000,0.96
+"GDP per capita, PPP [Social]",Basic drinking water [Environmental],0.040,0.011 to 0.064,1.00

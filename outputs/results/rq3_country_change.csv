@@ -1,0 +1,49 @@
+iso3,D_2000,D_2023,dD,class_2000,class_2023,country,lagging,region
+AGO,0.5347136711427226,0.7115930295280537,0.1768793583853311,Barely coordinated,Intermediate or better,Angola,Institutional,Southern
+BDI,0.5019380769524261,0.5827698251662038,0.0808317482137777,Barely coordinated,Barely coordinated,Burundi,Environmental,Central
+BEN,0.570566594929457,0.6479580503444687,0.07739145541501169,Barely coordinated,Primary coordination,Benin,Environmental,West
+BFA,0.509453748653674,0.6499425775923231,0.1404888289386491,Barely coordinated,Primary coordination,Burkina Faso,Environmental,West
+BWA,0.8221019687971965,0.9122645084708786,0.09016253967368204,Intermediate or better,Intermediate or better,Botswana,Environmental,Southern
+CAF,0.4832877907852533,0.4582899321319075,-0.024997858653345806,Near imbalance,Near imbalance,Central African Republic,Environmental,Central
+CIV,0.576753931645429,0.7424321114709735,0.16567817982554456,Barely coordinated,Intermediate or better,Côte d'Ivoire,Environmental,West
+CMR,0.5629619431611348,0.6478756709369142,0.08491372777577944,Barely coordinated,Primary coordination,Cameroon,Institutional,Central
+COD,0.3279037250797861,0.4761743977558442,0.1482706726760581,Imbalanced,Near imbalance,"Congo, Dem. Rep.",Environmental,Central
+COG,0.5167654048921628,0.6662355505637267,0.14947014567156391,Barely coordinated,Primary coordination,"Congo, Rep.",Institutional,Central
+COM,0.5700262081111961,0.653953482177083,0.08392727406588696,Barely coordinated,Primary coordination,Comoros,Institutional,East
+CPV,0.7931595089297674,0.9164714416084896,0.1233119326787222,Intermediate or better,Intermediate or better,Cabo Verde,Social,West
+ERI,0.5417374800026761,0.5778211973971784,0.036083717394502335,Barely coordinated,Barely coordinated,Eritrea,Institutional,East
+ETH,0.4127212245038275,0.6008065424708913,0.1880853179670638,Near imbalance,Primary coordination,Ethiopia,Environmental,East
+GAB,0.7192754659779464,0.7938860528254248,0.07461058684747834,Intermediate or better,Intermediate or better,Gabon,Institutional,Central
+GHA,0.6447470450257314,0.7897994509559004,0.145052405930169,Primary coordination,Intermediate or better,Ghana,Environmental,West
+GIN,0.4484870474583889,0.5900023370057683,0.1415152895473794,Near imbalance,Barely coordinated,Guinea,Environmental,West
+GMB,0.6594212661646877,0.6864625693811512,0.027041303216463586,Primary coordination,Primary coordination,"Gambia, The",Environmental,West
+GNB,0.4549660926498812,0.5897435982722395,0.13477750562235835,Near imbalance,Barely coordinated,Guinea-Bissau,Environmental,West
+GNQ,0.5448820527828684,0.6695692820088869,0.12468722922601849,Barely coordinated,Primary coordination,Equatorial Guinea,Institutional,Central
+KEN,0.558567177077235,0.7487501033771721,0.19018292629993705,Barely coordinated,Intermediate or better,Kenya,Environmental,East
+LBR,0.4395204822816885,0.5968557082029087,0.15733522592122018,Near imbalance,Barely coordinated,Liberia,Environmental,West
+LSO,0.6388445348916418,0.7780566111799933,0.13921207628835142,Primary coordination,Intermediate or better,Lesotho,Social,Southern
+MDG,0.526276140942823,0.5774526061349525,0.05117646519212948,Barely coordinated,Barely coordinated,Madagascar,Environmental,East
+MLI,0.4954126024316623,0.5908776053192222,0.09546500288755988,Near imbalance,Barely coordinated,Mali,Environmental,West
+MOZ,0.4837680769327373,0.6195896674900487,0.1358215905573114,Near imbalance,Primary coordination,Mozambique,Environmental,Southern
+MRT,0.5594306295123979,0.7123253750922658,0.15289474557986793,Barely coordinated,Intermediate or better,Mauritania,Institutional,West
+MUS,0.8731455946260224,0.9230826671983388,0.04993707257231639,Intermediate or better,Intermediate or better,Mauritius,Health system,East
+MWI,0.5376168145961455,0.6393391306018525,0.10172231600570703,Barely coordinated,Primary coordination,Malawi,Environmental,Southern
+NAM,0.78500815537651,0.8332703396372778,0.04826218426076778,Intermediate or better,Intermediate or better,Namibia,Environmental,Southern
+NER,0.4256799192079213,0.5652117626269411,0.13953184341901975,Near imbalance,Barely coordinated,Niger,Environmental,West
+NGA,0.4963499705449553,0.6522649236231559,0.15591495307820064,Near imbalance,Primary coordination,Nigeria,Health system,West
+RWA,0.515655059841144,0.7706655466525876,0.25501048681144356,Barely coordinated,Intermediate or better,Rwanda,Environmental,East
+SDN,0.5095392222817167,0.5587610649488652,0.049221842667148574,Barely coordinated,Barely coordinated,Sudan,Institutional,East
+SEN,0.6559010038892864,0.7471309227391245,0.09122991884983811,Primary coordination,Intermediate or better,Senegal,Health system,West
+SLE,0.4038216071283716,0.6081301434238104,0.20430853629543883,Near imbalance,Primary coordination,Sierra Leone,Environmental,West
+SOM,0.2869524545893787,0.4822489893883089,0.19529653479893022,Imbalanced,Near imbalance,Somalia,Institutional,East
+SSD,0.449871679391051,0.4342201443858946,-0.01565153500515637,Near imbalance,Near imbalance,South Sudan,Environmental,East
+STP,0.6588357142634412,0.7243392102316817,0.06550349596824045,Primary coordination,Intermediate or better,São Tomé and Príncipe,Environmental,Central
+SWZ,0.7075601814986272,0.7887305048517672,0.08117032335314,Intermediate or better,Intermediate or better,Eswatini,Institutional,Southern
+SYC,0.9042736897587512,0.9349420838573338,0.030668394098582574,Intermediate or better,Intermediate or better,Seychelles,Health system,East
+TCD,0.4316423613072042,0.5168682884308063,0.08522592712360216,Near imbalance,Barely coordinated,Chad,Environmental,Central
+TGO,0.4657232581524292,0.6380059258513311,0.17228266769890188,Near imbalance,Primary coordination,Togo,Environmental,West
+TZA,0.4785257794956663,0.6745036550630665,0.1959778755674002,Near imbalance,Primary coordination,Tanzania,Environmental,East
+UGA,0.4704302653426153,0.6318084758004323,0.16137821045781703,Near imbalance,Primary coordination,Uganda,Environmental,East
+ZAF,0.8451074480667327,0.8938443346168571,0.048736886550124425,Intermediate or better,Intermediate or better,South Africa,Institutional,Southern
+ZMB,0.5765868630194284,0.6949293818897565,0.1183425188703281,Barely coordinated,Primary coordination,Zambia,Environmental,Southern
+ZWE,0.6630274838044092,0.6816256540269684,0.018598170222559163,Primary coordination,Primary coordination,Zimbabwe,Institutional,Southern

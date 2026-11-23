@@ -1,0 +1,8 @@
+name: sdg3-socioecological-coevolution
+channels:
+  - conda-forge
+dependencies:
+  - python=3.13
+  - pip
+  - pip:
+      - -r requirements.txt

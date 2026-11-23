@@ -1,0 +1,51 @@
+dataset,variable,source_code,label,group,direction,transform,source,years
+panel,GDP,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (log)",Social,+,log,World Bank WDI (source 2),2000-2023
+panel,TFR,SP.DYN.TFRT.IN,Total fertility rate,Social,-,,World Bank WDI (source 2),2000-2023
+panel,ABR,SP.ADO.TFRT,Adolescent birth rate,Social,-,,World Bank WDI (source 2),2000-2023
+panel,PoU,SN.ITK.DEFC.ZS,Prevalence of undernourishment,Social,-,,World Bank WDI (source 2),2000-2023
+panel,FLFP,SL.TLF.CACT.FE.ZS,Female labour-force participation,Social,+,,World Bank WDI (source 2),2000-2023
+panel,GE,GOV_WGI_GE.EST,Government effectiveness,Institutional,+,,World Bank Worldwide Governance Indicators (source 3),2000-2023
+panel,CC,GOV_WGI_CC.EST,Control of corruption,Institutional,+,,World Bank Worldwide Governance Indicators (source 3),2000-2023
+panel,RL,GOV_WGI_RL.EST,Rule of law,Institutional,+,,World Bank Worldwide Governance Indicators (source 3),2000-2023
+panel,RQ,GOV_WGI_RQ.EST,Regulatory quality,Institutional,+,,World Bank Worldwide Governance Indicators (source 3),2000-2023
+panel,VA,GOV_WGI_VA.EST,Voice and accountability,Institutional,+,,World Bank Worldwide Governance Indicators (source 3),2000-2023
+panel,PV,GOV_WGI_PV.EST,Political stability,Institutional,+,,World Bank Worldwide Governance Indicators (source 3),2000-2023
+panel,WAT,SH.H2O.BASW.ZS,Basic drinking water,Environmental,+,,World Bank WDI (source 2),2000-2023
+panel,SAN,SH.STA.BASS.ZS,Basic sanitation,Environmental,+,,World Bank WDI (source 2),2000-2023
+panel,FUEL,EG.CFT.ACCS.ZS,Clean cooking fuel,Environmental,+,,World Bank WDI (source 2),2000-2023
+panel,ELEC,EG.ELC.ACCS.ZS,Access to electricity,Environmental,+,,World Bank WDI (source 2),2000-2023
+panel,CHE,SH.XPD.CHEX.PP.CD,"Health spending per capita, PPP (log)",Health system,+,log,World Bank WDI (source 2),2000-2023
+panel,GHP,SH.XPD.GHED.GE.ZS,Government health priority,Health system,+,,World Bank WDI (source 2),2000-2023
+panel,OOP,SH.XPD.OOPC.CH.ZS,Out-of-pocket share,Health system,-,,World Bank WDI (source 2),2000-2023
+panel,DTP3,SH.IMM.IDPT,DTP3 immunisation,Health system,+,,World Bank WDI (source 2),2000-2023
+panel,MCV1,SH.IMM.MEAS,Measles immunisation,Health system,+,,World Bank WDI (source 2),2000-2023
+panel,LE,SP.DYN.LE00.IN,Life expectancy at birth (years),Outcome,,,World Bank WDI (source 2),2000-2023
+panel,U5MR,SH.DYN.MORT,Under-five mortality (log),Outcome,,log,World Bank WDI (source 2),2000-2023
+panel,MMR,SH.STA.MMRT,Maternal mortality ratio (log),Outcome,,log,World Bank WDI (source 2),2000-2023
+panel,NMR,SH.DYN.NMRT,Neonatal mortality (log),Outcome,,log,World Bank WDI (source 2),2000-2023
+panel,STUNT,SH.STA.STNT.ME.ZS,Child stunting (%),Outcome,,,World Bank WDI (source 2),2000-2023
+panel,POP,SP.POP.TOTL,Population (weights),,,,World Bank WDI,2000-2023
+cross_section,POV,,Poverty,Household,-,,"World Bank Poverty and Inequality Platform (extreme poverty headcount, $3.00/day, 2021 PPP)",latest available (mostly 2019-2023)
+cross_section,FSCH,,Female schooling,Household,+,,UNDP Human Development Report data (female mean years of schooling),latest available (mostly 2019-2023)
+cross_section,FIES,,Food insecurity,Household,-,,"FAO (moderate or severe food insecurity, SDG 2.1.2)",latest available (mostly 2019-2023)
+cross_section,TFR,,Fertility,Household,-,,UN World Population Prospects,latest available (mostly 2019-2023)
+cross_section,CHILDMAR,,Child marriage,Community,-,,"UNICEF (child marriage, SDG 5.3.1)",latest available (mostly 2019-2023)
+cross_section,TRUST,,Social trust,Community,+,,"Afrobarometer (interpersonal and institutional trust, including health services)",latest available (mostly 2019-2023)
+cross_section,WATERCOLL,,Water collection by women,Community,-,,WHO/UNICEF JMP (share of households where women or girls collect water),latest available (mostly 2019-2023)
+cross_section,FLFP,,Female labour,Community,+,,ILO modelled estimates (female labour-force participation),latest available (mostly 2019-2023)
+cross_section,NURSE,,Nurses and midwives,Health system,+,,"WHO National Health Workforce Accounts (per 10,000)",latest available (mostly 2019-2023)
+cross_section,PHYS,,Physicians,Health system,+,,"WHO National Health Workforce Accounts (per 10,000)",latest available (mostly 2019-2023)
+cross_section,HEPC,,Health spending,Health system,+,log,WHO Global Health Expenditure Database (health expenditure per capita),latest available (mostly 2019-2023)
+cross_section,OOP,,Out-of-pocket share,Health system,-,,WHO Global Health Expenditure Database,latest available (mostly 2019-2023)
+cross_section,GOVEFF,,Government effectiveness,Governance,+,,Worldwide Governance Indicators,latest available (mostly 2019-2023)
+cross_section,CORRUPT,,Control of corruption,Governance,+,,Worldwide Governance Indicators,latest available (mostly 2019-2023)
+cross_section,POLSTAB,,Political stability,Governance,+,,Worldwide Governance Indicators,latest available (mostly 2019-2023)
+cross_section,EXCL_EPR,,Political exclusion,Governance,-,,Ethnic Power Relations (politically excluded population share),latest available (mostly 2019-2023)
+cross_section,WATER_B,,Basic water,Ecological,+,,"WHO/UNICEF JMP (at least basic drinking water, SDG 6.1.1)",latest available (mostly 2019-2023)
+cross_section,SAN_SM,,Safe sanitation,Ecological,+,,"WHO/UNICEF JMP (safely managed sanitation, SDG 6.2.1a)",latest available (mostly 2019-2023)
+cross_section,CLEANFUEL,,Clean fuel,Ecological,+,,"WHO / Tracking SDG 7 (clean cooking fuels, SDG 7.1.2)",latest available (mostly 2019-2023)
+cross_section,PM25,,PM2.5,Ecological,-,,World Bank / WHO (ambient PM2.5),latest available (mostly 2019-2023)
+cross_section,ND_E,,Climate exposure,Ecological,-,,ND-GAIN exposure score,latest available (mostly 2019-2023)
+cross_section,U5MR,,Under-five mortality,Outcome,-,log,UN IGME,latest available (mostly 2019-2023)
+cross_section,MMR,,Maternal mortality,Outcome,-,log,WHO/MMEIG,latest available (mostly 2019-2023)
+cross_section,SCI,,UHC service coverage,Outcome,+,,WHO/World Bank UHC service coverage index,latest available (mostly 2019-2023)

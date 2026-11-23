@@ -1,0 +1,76 @@
+a,b,label_a,label_b,level_a,level_b,weight,ci_lo,ci_hi,inclusion,cross_level
+GOVEFF,CORRUPT,Government effectiveness,Control of corruption,Governance,Governance,0.5408682528844876,0.3325511108116421,0.6069178792060189,1.0,False
+NURSE,PHYS,Nurses and midwives,Physicians,Health system,Health system,0.34157768699641466,0.05688891943636274,0.4896289912297322,0.977,False
+U5MR,MMR,Child survival,Maternal survival,Outcome,Outcome,0.3302793729703584,0.06366110127859306,0.4464434019089034,0.983,False
+POV,WATER_B,Poverty,Basic water,Household,Ecological,0.28682360594052,0.06539094131454981,0.3748044367837429,0.985,True
+POV,FLFP,Poverty,Female labour,Household,Community,-0.26047359741993414,-0.3995615888825727,-0.05784712845428216,0.979,True
+OOP,PM25,Out-of-pocket share,PM2.5,Health system,Ecological,0.24533163275960265,0.0,0.43863746907852946,0.871,True
+WATER_B,SAN_SM,Basic water,Safe sanitation,Ecological,Ecological,0.23133200823352676,0.0,0.349694258674033,0.918,False
+TFR,SCI,Fertility,UHC service coverage,Household,Outcome,0.22505168793746566,0.0,0.33516012374541626,0.943,True
+MMR,SCI,Maternal survival,UHC service coverage,Outcome,Outcome,0.21968010429291696,0.0,0.3511638778178194,0.959,False
+POV,OOP,Poverty,Out-of-pocket share,Household,Health system,-0.21121045763588292,-0.32723317022013493,-0.04967463091688871,0.975,True
+TFR,POLSTAB,Fertility,Political stability,Household,Governance,0.20436921393669943,0.0,0.30824386669331033,0.908,True
+FSCH,CHILDMAR,Female schooling,Child marriage,Household,Community,0.20315748788734148,0.0,0.3293513838501331,0.883,True
+FIES,WATER_B,Food insecurity,Basic water,Household,Ecological,0.19130830888366818,0.0,0.3603664707074386,0.841,True
+PHYS,CLEANFUEL,Physicians,Clean fuel,Health system,Ecological,0.18614457623620878,0.0,0.31937717877848026,0.811,True
+FSCH,WATERCOLL,Female schooling,Water collection by women,Household,Community,0.18092836505556323,0.0,0.29596321293520744,0.898,True
+SAN_SM,SCI,Safe sanitation,UHC service coverage,Ecological,Outcome,0.17736642477755715,0.0,0.3538684729070751,0.833,True
+OOP,EXCL_EPR,Out-of-pocket share,Political exclusion,Health system,Governance,0.17594444826555852,0.0,0.2879678530165555,0.795,True
+CORRUPT,EXCL_EPR,Control of corruption,Political exclusion,Governance,Governance,0.17536726403340783,0.0,0.3775345257215639,0.76,False
+POLSTAB,U5MR,Political stability,Child survival,Governance,Outcome,0.171624382340516,0.0,0.28298450560921284,0.875,True
+FSCH,SCI,Female schooling,UHC service coverage,Household,Outcome,0.1708354063006605,0.0,0.3036845151843272,0.903,True
+WATERCOLL,PHYS,Water collection by women,Physicians,Community,Health system,0.16456707219249744,0.0,0.32441042313553603,0.758,True
+GOVEFF,POLSTAB,Government effectiveness,Political stability,Governance,Governance,0.16448071123697025,0.0,0.2824447144222066,0.86,False
+EXCL_EPR,WATER_B,Political exclusion,Basic water,Governance,Ecological,0.16165440132292402,0.0,0.27300434990996003,0.71,True
+lnHEPC,POLSTAB,Health spending,Political stability,Health system,Governance,0.14546835355830737,0.0,0.3165874372209132,0.719,True
+POV,CLEANFUEL,Poverty,Clean fuel,Household,Ecological,0.13660191345220163,0.0,0.2720117519104231,0.726,True
+TFR,CHILDMAR,Fertility,Child marriage,Household,Community,0.13619086698949134,0.0,0.2640269536945532,0.78,True
+CHILDMAR,SAN_SM,Child marriage,Safe sanitation,Community,Ecological,0.1336959090001293,0.0,0.263689028212365,0.719,True
+OOP,ND_E,Out-of-pocket share,Climate exposure,Health system,Ecological,-0.1306347338782847,-0.28961744355662733,0.0,0.687,True
+FSCH,NURSE,Female schooling,Nurses and midwives,Household,Health system,0.1272031791177763,0.0,0.2751350147586016,0.747,True
+FIES,CLEANFUEL,Food insecurity,Clean fuel,Household,Ecological,0.12427439831354851,0.0,0.27903096304037484,0.652,True
+SAN_SM,CLEANFUEL,Safe sanitation,Clean fuel,Ecological,Ecological,0.12010055101921532,0.0,0.27377443322137646,0.656,False
+lnHEPC,CLEANFUEL,Health spending,Clean fuel,Health system,Ecological,0.12004141675623502,0.0,0.3163150293009814,0.691,True
+TRUST,lnHEPC,Social trust,Health spending,Community,Health system,-0.11539474915184525,-0.23400653564977889,0.0,0.66,True
+NURSE,MMR,Nurses and midwives,Maternal survival,Health system,Outcome,0.11527187094275432,0.0,0.28585213279488375,0.673,True
+TRUST,PHYS,Social trust,Physicians,Community,Health system,-0.11359722296861581,-0.22390829944459315,0.0,0.588,True
+CHILDMAR,SCI,Child marriage,UHC service coverage,Community,Outcome,0.11067600809205828,0.0,0.25749453231150427,0.72,True
+CLEANFUEL,U5MR,Clean fuel,Child survival,Ecological,Outcome,0.10930363111302406,0.0,0.21975358327950423,0.704,True
+FLFP,SAN_SM,Female labour,Safe sanitation,Community,Ecological,-0.10798751983087193,-0.2509777578018464,0.0,0.636,True
+PM25,MMR,PM2.5,Maternal survival,Ecological,Outcome,0.10645701528304727,0.0,0.26978355546370714,0.536,True
+POV,lnHEPC,Poverty,Health spending,Household,Health system,0.10562899161394926,0.0,0.25775517803092884,0.627,True
+TFR,U5MR,Fertility,Child survival,Household,Outcome,0.10541135894768255,0.0,0.24109919338232372,0.584,True
+WATERCOLL,POLSTAB,Water collection by women,Political stability,Community,Governance,0.10177673533760981,0.0,0.2842918299446092,0.603,True
+OOP,U5MR,Out-of-pocket share,Child survival,Health system,Outcome,0.10012865909347797,0.0,0.18415624575330847,0.538,True
+FLFP,ND_E,Female labour,Climate exposure,Community,Ecological,0.09873308566532019,0.0,0.3452437957255767,0.572,True
+FSCH,PHYS,Female schooling,Physicians,Household,Health system,0.09609639867767832,0.0,0.25244124226960385,0.55,True
+FIES,TRUST,Food insecurity,Social trust,Household,Community,0.0925138471554452,0.0,0.2666250778853099,0.637,True
+FSCH,CLEANFUEL,Female schooling,Clean fuel,Household,Ecological,0.09175369785388042,0.0,0.2375414011082033,0.624,True
+GOVEFF,MMR,Government effectiveness,Maternal survival,Governance,Outcome,0.08904964770036053,0.0,0.19761841174665282,0.576,True
+NURSE,SCI,Nurses and midwives,UHC service coverage,Health system,Outcome,0.08826872028728469,0.0,0.2473076868899707,0.606,True
+NURSE,lnHEPC,Nurses and midwives,Health spending,Health system,Health system,0.08433534495832734,0.0,0.2480055674907327,0.566,False
+lnHEPC,SCI,Health spending,UHC service coverage,Health system,Outcome,0.08395260809363768,0.0,0.21863947510640935,0.522,True
+NURSE,CLEANFUEL,Nurses and midwives,Clean fuel,Health system,Ecological,0.08342344073184431,0.0,0.251735157558581,0.612,True
+WATERCOLL,WATER_B,Water collection by women,Basic water,Community,Ecological,0.08263041818873232,0.0,0.25588820520758787,0.544,True
+FIES,GOVEFF,Food insecurity,Government effectiveness,Household,Governance,0.0785751133740311,0.0,0.2850367006572947,0.536,True
+lnHEPC,WATER_B,Health spending,Basic water,Health system,Ecological,0.07831123125166113,0.0,0.22734629262841663,0.457,True
+CORRUPT,POLSTAB,Control of corruption,Political stability,Governance,Governance,0.07695933372241667,0.0,0.23668301547867293,0.485,False
+FSCH,OOP,Female schooling,Out-of-pocket share,Household,Health system,0.07529939786717377,0.0,0.24094331359324106,0.581,True
+WATERCOLL,lnHEPC,Water collection by women,Health spending,Community,Health system,0.07491476749000708,0.0,0.2474855456358677,0.565,True
+WATERCOLL,NURSE,Water collection by women,Nurses and midwives,Community,Health system,0.07048289073649357,0.0,0.2667583918940676,0.523,True
+PHYS,U5MR,Physicians,Child survival,Health system,Outcome,0.06912904244222211,0.0,0.22631573887576198,0.459,True
+WATERCOLL,OOP,Water collection by women,Out-of-pocket share,Community,Health system,-0.06815212863372826,-0.17800646796880273,0.0,0.436,True
+FIES,MMR,Food insecurity,Maternal survival,Household,Outcome,0.06682490497426805,0.0,0.2021272640311489,0.502,True
+TRUST,GOVEFF,Social trust,Government effectiveness,Community,Governance,0.06585792100417431,0.0,0.21064894632014664,0.504,True
+EXCL_EPR,SAN_SM,Political exclusion,Safe sanitation,Governance,Ecological,0.06575947310212796,0.0,0.23070164170441265,0.418,True
+OOP,MMR,Out-of-pocket share,Maternal survival,Health system,Outcome,0.0645681507615468,0.0,0.22576282058925345,0.489,True
+FSCH,TFR,Female schooling,Fertility,Household,Household,0.06395046187274396,0.0,0.21738048706011878,0.464,False
+OOP,GOVEFF,Out-of-pocket share,Government effectiveness,Health system,Governance,0.06155212193402442,0.0,0.17353550131547063,0.501,True
+TFR,GOVEFF,Fertility,Government effectiveness,Household,Governance,0.06092000666106328,0.0,0.16645198018154755,0.406,True
+TRUST,MMR,Social trust,Maternal survival,Community,Outcome,0.060528197213473627,0.0,0.18192794826583883,0.476,True
+TFR,WATER_B,Fertility,Basic water,Household,Ecological,0.05840068332764398,0.0,0.19489450851233842,0.425,True
+GOVEFF,WATER_B,Government effectiveness,Basic water,Governance,Ecological,0.0581538679409768,0.0,0.19176883090401853,0.45,True
+CHILDMAR,OOP,Child marriage,Out-of-pocket share,Community,Health system,0.05771297009929978,0.0,0.22462641708372197,0.422,True
+PHYS,lnHEPC,Physicians,Health spending,Health system,Health system,0.05755566943362183,0.0,0.2270499190477897,0.472,False
+EXCL_EPR,PM25,Political exclusion,PM2.5,Governance,Ecological,0.05751751471611768,0.0,0.22046220153438,0.471,True
+GOVEFF,U5MR,Government effectiveness,Child survival,Governance,Outcome,0.05183685106814673,0.0,0.2429403036280872,0.467,True

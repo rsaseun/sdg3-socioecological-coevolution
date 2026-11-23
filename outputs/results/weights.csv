@@ -1,0 +1,81 @@
+scheme,subsystem,indicator,label,direction,weight
+entropy,Social,GDP,"GDP per capita, PPP (log)",1,0.31828362127416165
+entropy,Social,TFR,Total fertility rate,-1,0.20445075961028117
+entropy,Social,ABR,Adolescent birth rate,-1,0.19259568222929757
+entropy,Social,PoU,Prevalence of undernourishment,-1,0.07116947645850902
+entropy,Social,FLFP,Female labour-force participation,1,0.21350046042775056
+entropy,Institutional,GE,Government effectiveness,1,0.1652767546439698
+entropy,Institutional,CC,Control of corruption,1,0.23565964463339467
+entropy,Institutional,RL,Rule of law,1,0.12369105047619039
+entropy,Institutional,RQ,Regulatory quality,1,0.1523008416797917
+entropy,Institutional,VA,Voice and accountability,1,0.15500389823240945
+entropy,Institutional,PV,Political stability,1,0.16806781033424398
+entropy,Environmental,WAT,Basic drinking water,1,0.0931217395697564
+entropy,Environmental,SAN,Basic sanitation,1,0.20337937892765304
+entropy,Environmental,FUEL,Clean cooking fuel,1,0.5180417952068614
+entropy,Environmental,ELEC,Access to electricity,1,0.18545708629572916
+entropy,Health system,CHE,"Health spending per capita, PPP (log)",1,0.19011268430483994
+entropy,Health system,GHP,Government health priority,1,0.3340000405003167
+entropy,Health system,OOP,Out-of-pocket share,-1,0.2159023831112226
+entropy,Health system,DTP3,DTP3 immunisation,1,0.13299264506286004
+entropy,Health system,MCV1,Measles immunisation,1,0.12699224702076076
+equal,Social,GDP,"GDP per capita, PPP (log)",1,0.2
+equal,Social,TFR,Total fertility rate,-1,0.2
+equal,Social,ABR,Adolescent birth rate,-1,0.2
+equal,Social,PoU,Prevalence of undernourishment,-1,0.2
+equal,Social,FLFP,Female labour-force participation,1,0.2
+equal,Institutional,GE,Government effectiveness,1,0.16666666666666666
+equal,Institutional,CC,Control of corruption,1,0.16666666666666666
+equal,Institutional,RL,Rule of law,1,0.16666666666666666
+equal,Institutional,RQ,Regulatory quality,1,0.16666666666666666
+equal,Institutional,VA,Voice and accountability,1,0.16666666666666666
+equal,Institutional,PV,Political stability,1,0.16666666666666666
+equal,Environmental,WAT,Basic drinking water,1,0.25
+equal,Environmental,SAN,Basic sanitation,1,0.25
+equal,Environmental,FUEL,Clean cooking fuel,1,0.25
+equal,Environmental,ELEC,Access to electricity,1,0.25
+equal,Health system,CHE,"Health spending per capita, PPP (log)",1,0.2
+equal,Health system,GHP,Government health priority,1,0.2
+equal,Health system,OOP,Out-of-pocket share,-1,0.2
+equal,Health system,DTP3,DTP3 immunisation,1,0.2
+equal,Health system,MCV1,Measles immunisation,1,0.2
+critic,Social,GDP,"GDP per capita, PPP (log)",1,0.1863580024349821
+critic,Social,TFR,Total fertility rate,-1,0.14251028932506368
+critic,Social,ABR,Adolescent birth rate,-1,0.18061903419942965
+critic,Social,PoU,Prevalence of undernourishment,-1,0.14764708186148526
+critic,Social,FLFP,Female labour-force participation,1,0.34286559217903945
+critic,Institutional,GE,Government effectiveness,1,0.14566067559002996
+critic,Institutional,CC,Control of corruption,1,0.17731355990608574
+critic,Institutional,RL,Rule of law,1,0.09634896882929449
+critic,Institutional,RQ,Regulatory quality,1,0.1402561888466729
+critic,Institutional,VA,Voice and accountability,1,0.20208094220576267
+critic,Institutional,PV,Political stability,1,0.23833966462215425
+critic,Environmental,WAT,Basic drinking water,1,0.23851592192958648
+critic,Environmental,SAN,Basic sanitation,1,0.23776946746188954
+critic,Environmental,FUEL,Clean cooking fuel,1,0.28025213356074963
+critic,Environmental,ELEC,Access to electricity,1,0.24346247704777432
+critic,Health system,CHE,"Health spending per capita, PPP (log)",1,0.20488538151539845
+critic,Health system,GHP,Government health priority,1,0.20455102191277533
+critic,Health system,OOP,Out-of-pocket share,-1,0.22991379100316475
+critic,Health system,DTP3,DTP3 immunisation,1,0.18533131865121133
+critic,Health system,MCV1,Measles immunisation,1,0.17531848691745022
+pca,Social,GDP,"GDP per capita, PPP (log)",1,0.2216202891631394
+pca,Social,TFR,Total fertility rate,-1,0.2463547915000235
+pca,Social,ABR,Adolescent birth rate,-1,0.21895814784716292
+pca,Social,PoU,Prevalence of undernourishment,-1,0.17689903969237716
+pca,Social,FLFP,Female labour-force participation,1,0.136167731797297
+pca,Institutional,GE,Government effectiveness,1,0.1699455310846477
+pca,Institutional,CC,Control of corruption,1,0.16610961581117328
+pca,Institutional,RL,Rule of law,1,0.1784698264461649
+pca,Institutional,RQ,Regulatory quality,1,0.16978352879239658
+pca,Institutional,VA,Voice and accountability,1,0.16096583087395197
+pca,Institutional,PV,Political stability,1,0.1547256669916655
+pca,Environmental,WAT,Basic drinking water,1,0.24784432354260988
+pca,Environmental,SAN,Basic sanitation,1,0.24871912062001225
+pca,Environmental,FUEL,Clean cooking fuel,1,0.24813639744302352
+pca,Environmental,ELEC,Access to electricity,1,0.2553001583943544
+pca,Health system,CHE,"Health spending per capita, PPP (log)",1,0.17760928702357068
+pca,Health system,GHP,Government health priority,1,0.17157518723946374
+pca,Health system,OOP,Out-of-pocket share,-1,0.19262124649711443
+pca,Health system,DTP3,DTP3 immunisation,1,0.22833692732932348
+pca,Health system,MCV1,Measles immunisation,1,0.22985735191052756

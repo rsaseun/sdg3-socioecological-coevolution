@@ -1,0 +1,232 @@
+{
+ "mean_D": {
+  "y2000": 0.563311342039546,
+  "y2023": 0.6746225507230631
+ },
+ "mean_D_popweighted": {
+  "y2000": 0.516473521535466,
+  "y2023": 0.643216315015461
+ },
+ "mean_U_2000": {
+  "U_Social": 0.4468,
+  "U_Institutional": 0.4473,
+  "U_Environmental": 0.2161,
+  "U_Health system": 0.3914,
+  "D": 0.5633,
+  "C": 0.8717,
+  "T": 0.3754
+ },
+ "mean_U_2023": {
+  "U_Social": 0.5601,
+  "U_Institutional": 0.4698,
+  "U_Environmental": 0.393,
+  "U_Health system": 0.5359,
+  "D": 0.6746,
+  "C": 0.9483,
+  "T": 0.4897
+ },
+ "sigma": {
+  "cv_2000": 0.24422634950207253,
+  "cv_2023": 0.18162891454265104,
+  "slope_per_year": -0.0022419684031335626,
+  "p": 2.656676920505573e-12,
+  "sd_2000": 0.13757547269943168,
+  "sd_2023": 0.1225309616138245
+ },
+ "cv_sub": {
+  "Social": {
+   "cv_2000": 0.2964239855592815,
+   "cv_2023": 0.2301032856889379
+  },
+  "Institutional": {
+   "cv_2000": 0.4840197125209229,
+   "cv_2023": 0.43857141561503554
+  },
+  "Environmental": {
+   "cv_2000": 1.0092522403066646,
+   "cv_2023": 0.6214042962289873
+  },
+  "Health system": {
+   "cv_2000": 0.47856284275329425,
+   "cv_2023": 0.31325828905474346
+  }
+ },
+ "beta_abs": {
+  "D": {
+   "beta": -0.014971470551716857,
+   "se": 0.0021384258142154154,
+   "p": 2.53843972480516e-12,
+   "r2": 0.44813827500141235,
+   "speed": 0.018352989016974318,
+   "half_life": 37.76753638978736
+  },
+  "Social": {
+   "beta": -0.015618114529564337,
+   "se": 0.001970803793148118,
+   "p": 2.2861776308012666e-15,
+   "r2": 0.5243912885186273,
+   "speed": 0.019350601827089565,
+   "half_life": 35.820445625085675
+  },
+  "Institutional": {
+   "beta": -0.018326363089216296,
+   "se": 0.004410424716177093,
+   "p": 3.249495287320349e-05,
+   "r2": 0.34395489154948444,
+   "speed": 0.023796856995256865,
+   "half_life": 29.127677688616686
+  },
+  "Environmental": {
+   "beta": -0.017004825300573255,
+   "se": 0.002486782149180703,
+   "p": 8.025931845462738e-12,
+   "r2": 0.5024224657574508,
+   "speed": 0.021570402790867062,
+   "half_life": 32.13417882272577
+  },
+  "Health system": {
+   "beta": -0.02584367373846894,
+   "se": 0.0026378211676563587,
+   "p": 1.1557085603019653e-22,
+   "r2": 0.6470651169966668,
+   "speed": 0.03923473528442229,
+   "half_life": 17.66667152295409
+  }
+ },
+ "beta_cond": {
+  "beta": -0.27480102941159257,
+  "se": 0.05918491986298187,
+  "p": 5.275323273463085e-06,
+  "speed_per_year": 0.10710307319630825,
+  "half_life_years": 6.471776764887801
+ },
+ "markov_diag": {
+  "Imbalanced": 0.8462,
+  "Near imbalance": 0.8924,
+  "Barely coordinated": 0.9036,
+  "Primary coordination": 0.9367,
+  "Intermediate or better": 0.9922
+ },
+ "steady_state": {
+  "Imbalanced": 0.0003,
+  "Near imbalance": 0.0038,
+  "Barely coordinated": 0.0596,
+  "Primary coordination": 0.1787,
+  "Intermediate or better": 0.7577
+ },
+ "mfpt_from_imbalanced_or_near_to_primary": 23.226666666666706,
+ "spatial_homogeneity": {
+  "LR": 32.812755329874236,
+  "LR_dof": 16,
+  "LR_p": 0.007823920552524566,
+  "Q": 88.96117745247005,
+  "Q_dof": 16,
+  "Q_p": 3.885225474675735e-12
+ },
+ "upgrade_probability_by_neighbourhood": {
+  "Low-coordination neighbours": {
+   "Imbalanced": 0.25,
+   "Near imbalance": 0.08181818181818182,
+   "Barely coordinated": 0.06796116504854369,
+   "Primary coordination": 0.02702702702702703,
+   "n_low_start": 217,
+   "upgrade_rate_from_below_primary": 0.07834101382488479
+  },
+  "Middle": {
+   "Imbalanced": 0.14285714285714285,
+   "Near imbalance": 0.15789473684210525,
+   "Barely coordinated": 0.10945273631840796,
+   "Primary coordination": 0.03867403314917127,
+   "n_low_start": 253,
+   "upgrade_rate_from_below_primary": 0.11857707509881422
+  },
+  "High-coordination neighbours": {
+   "Imbalanced": 0.125,
+   "Near imbalance": 0.0,
+   "Barely coordinated": 0.03571428571428571,
+   "Primary coordination": 0.02631578947368421,
+   "n_low_start": 46,
+   "upgrade_rate_from_below_primary": 0.043478260869565216
+  }
+ },
+ "downgrade_probability_by_neighbourhood": {
+  "Low-coordination neighbours": {
+   "Near imbalance": 0.00909090909090909,
+   "Barely coordinated": 0.009708737864077669,
+   "Primary coordination": 0.13513513513513514,
+   "Intermediate or better": 0.5
+  },
+  "Middle": {
+   "Near imbalance": 0.02631578947368421,
+   "Barely coordinated": 0.004975124378109453,
+   "Primary coordination": 0.027624309392265192,
+   "Intermediate or better": 0.00980392156862745
+  },
+  "High-coordination neighbours": {
+   "Near imbalance": 0.0,
+   "Barely coordinated": 0.0,
+   "Primary coordination": 0.0,
+   "Intermediate or better": 0.0
+  }
+ },
+ "improved": 46,
+ "declined": 2,
+ "top_gain": [
+  [
+   "Rwanda",
+   0.255
+  ],
+  [
+   "Sierra Leone",
+   0.204
+  ],
+  [
+   "Tanzania",
+   0.196
+  ],
+  [
+   "Somalia",
+   0.195
+  ],
+  [
+   "Kenya",
+   0.19
+  ]
+ ],
+ "declines": [
+  [
+   "Central African Republic",
+   -0.025
+  ],
+  [
+   "South Sudan",
+   -0.016
+  ]
+ ],
+ "lagging_2000": {
+  "Environmental": 35,
+  "Health system": 9,
+  "Institutional": 3,
+  "Social": 1
+ },
+ "lagging_2023": {
+  "Environmental": 29,
+  "Institutional": 13,
+  "Health system": 4,
+  "Social": 2
+ },
+ "class_2000": {
+  "Barely coordinated": 17,
+  "Near imbalance": 15,
+  "Intermediate or better": 8,
+  "Primary coordination": 6,
+  "Imbalanced": 2
+ },
+ "class_2023": {
+  "Intermediate or better": 17,
+  "Primary coordination": 17,
+  "Barely coordinated": 10,
+  "Near imbalance": 4
+ },
+ "giddy_version": "2.3.9"
+}
